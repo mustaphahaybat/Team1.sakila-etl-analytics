@@ -1,0 +1,11 @@
+{
+    "project": "Azure Data Engineering & Analytics – Week 7",
+    "reflection": "Bu proje, veri mühendisliği süreçlerinin uçtan uca nasıl işlediğini deneyimlememi sağladı. 
+    MySQL’de Sakila veritabanını keşfederek ilişkisel tablolar ve ERD tasarladım, veri modellemenin temel önemini kavradım. 
+    CSV’leri Snowflake’e yükleyip Star Schema oluşturarak OLAP odaklı analizler yaptım; 
+    özellikle aylık gelir ve ülke bazlı trendleri çıkarmak veri ambarı mantığını pekiştirdi. 
+    MongoDB’ye geçişte, verileri belge odaklı yapılandırarak NoSQL’in esnekliğini ve indeksleme ile sorgu optimizasyonunu gördüm. 
+    ETL süreci boyunca verilerin farklı platformlar arasında taşınması ve dönüştürülmesi, gerçek dünya senaryolarında karşılaşılacak zorlukları ortaya koydu. 
+    Farklı veri mimarilerinin güçlü ve sınırlı yönlerini deneyimlemek, veri mühendisliği kararlarında daha bilinçli olmamı sağladı. 
+    Bu proje, hem teknik becerilerimi hem de veri odaklı düşünme yeteneğimi geliştiren kapsamlı bir deneyim oldu."
+}
